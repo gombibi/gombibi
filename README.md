@@ -4,4 +4,4 @@
 - 🚀 I'm good at Java, Spring.
 - 🌱 I’m currently learning Spring Boot, JPA.
 
-- 📫 How to reach me: gomdvivi@gmail.com
+- 📫 How to reach me: bb.style.on@gmail.com
